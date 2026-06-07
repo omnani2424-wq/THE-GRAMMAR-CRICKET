@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Cricket League",
+  "description": "Strike boundaries and score sixes by answering high-level English grammar questions! Select your favorite IPL team, watch 3D-style cricket play, and track your achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
